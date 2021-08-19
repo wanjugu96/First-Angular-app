@@ -15,7 +15,7 @@ Main functionalities:
 [Wanjugu Mung'au](https://github.com/wanjugu96)
 
 ## setup instructions
-* git clone https://github.com/wanjugu96/First-Angular-app.git
+* git clone https://github.com/wanjugu96/Goals-Angular-app.git
 *  cd project folder
 * npm install
 * ng serve Navigate to http://localhost:4200/
