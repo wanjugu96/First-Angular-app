@@ -1,0 +1,10 @@
+    .randomquote {
+        border: solid;
+        margin: 20px;
+    }
+    
+    .progress {
+        background-color: blueviolet;
+        height: 120px;
+        border: solid;
+    }

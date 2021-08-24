@@ -1,5 +1,5 @@
 export class Goal {
-    // id: number=0;
+    // id!: number;
     // name: string='';
     // description:string=''
     // id: number=0;
